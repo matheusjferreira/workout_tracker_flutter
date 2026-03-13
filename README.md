@@ -42,6 +42,10 @@ Corrida
 Abdominal
 ```
 
+<img width="2501" height="2876" alt="test_tcc_app" src="https://github.com/user-attachments/assets/7f1b0d4c-4ab5-42fe-ba73-f69204ada82b" />
+
+![test_tcc_app](https://github.com/user-attachments/assets/5d6ce3fc-a56e-4372-9c76-55fb5810e2e1)
+
 ---
 
 # Funcionalidades
