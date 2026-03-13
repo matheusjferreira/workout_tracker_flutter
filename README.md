@@ -266,7 +266,7 @@ flutter doctor
 # Clonando o projeto
 
 ```
-git clone https://github.com/seu-repositorio/workout_tracker.git
+git clone https://github.com/matheusjferreira/workout_tracker_flutter
 ```
 
 Entre na pasta do projeto:
