@@ -48,6 +48,87 @@ Abdominal
 
 ---
 
+Segue **apenas a seção** para você adicionar no README.
+
+---
+
+## Plataforma Multiplataforma
+
+Uma das principais características do projeto **Workout Tracker** é sua capacidade de execução em múltiplas plataformas a partir de uma única base de código. Isso é possível graças ao uso do **Flutter**, framework moderno de desenvolvimento criado pelo Google que permite construir aplicações nativas para diferentes sistemas operacionais utilizando a mesma linguagem e estrutura de projeto.
+
+Diferente de abordagens tradicionais onde cada plataforma exige uma implementação separada (por exemplo, Java/Kotlin para Android, Swift/Objective-C para iOS ou linguagens específicas para aplicações desktop), o Flutter permite que toda a lógica da aplicação, interface gráfica e manipulação de dados sejam desenvolvidas de forma unificada.
+
+Essa característica reduz significativamente:
+
+* tempo de desenvolvimento
+* custo de manutenção
+* complexidade de atualização
+* duplicação de código
+
+No contexto deste projeto, a aplicação pode ser executada nas seguintes plataformas:
+
+### Aplicações Mobile
+
+O aplicativo pode ser compilado e executado como aplicação nativa em dispositivos móveis:
+
+* **Android**
+* **iOS**
+
+Isso permite que usuários registrem e acompanhem seus exercícios diretamente em smartphones ou tablets, mantendo a mesma experiência de uso em diferentes sistemas operacionais.
+
+---
+
+### Aplicações Desktop
+
+Além do ambiente mobile, o Flutter também oferece suporte completo para desenvolvimento de aplicações desktop. Dessa forma, o sistema pode ser executado como um programa convencional em computadores pessoais.
+
+Plataformas suportadas:
+
+* **Windows**
+* **macOS**
+* **Linux**
+
+Isso permite que o mesmo sistema possa ser utilizado em ambientes de trabalho, academias ou estações de monitoramento de atividades físicas.
+
+---
+
+### Aplicações Web
+
+Outra possibilidade oferecida pelo Flutter é a compilação da aplicação para **Web**, permitindo que o sistema funcione diretamente em navegadores modernos.
+
+Nesse cenário, o Workout Tracker pode ser acessado como um **site ou sistema web**, sem necessidade de instalação, bastando acessar a aplicação através de um navegador.
+
+Isso amplia significativamente o alcance da aplicação, tornando possível utilizá-la em qualquer dispositivo com acesso à internet.
+
+---
+
+### Vantagens da abordagem multiplataforma
+
+O uso de uma arquitetura multiplataforma oferece diversos benefícios técnicos e operacionais:
+
+* reutilização de código entre plataformas
+* consistência de interface e experiência do usuário
+* redução de esforço de desenvolvimento
+* manutenção centralizada
+* facilidade de expansão para novas plataformas
+
+Além disso, o Flutter utiliza um mecanismo próprio de renderização de interface, garantindo que o layout e os componentes visuais sejam exibidos de maneira consistente em todos os ambientes suportados.
+
+---
+
+### Escalabilidade tecnológica
+
+Graças à natureza multiplataforma do Flutter, o projeto pode evoluir facilmente para novos ambientes computacionais no futuro, incluindo:
+
+* dispositivos embarcados
+* painéis de monitoramento em academias
+* sistemas de acompanhamento em smart TVs
+* dashboards administrativos acessíveis via navegador
+
+Essa flexibilidade torna a aplicação altamente adaptável a diferentes cenários de uso, permitindo que a mesma base tecnológica seja utilizada em múltiplos contextos computacionais.
+
+---
+
 # Funcionalidades
 
 O aplicativo possui as seguintes funcionalidades principais:
